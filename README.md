@@ -12,22 +12,22 @@ This repository is an updated version of the original [Web Crawl Q&A Example](ht
 Ensure you have Python 3.x installed on your machine.
 
 ### Installation
-Install the required dependencies using:
-
-```bash
-pip3 install -r requirements.txt
-API Key Setup
-Export your OpenAI API key using:
-export OPENAI_API_KEY=sk-yourkey
-Replace yourkey with your actual OpenAI API key.
-
-Usage
-
-To run the program, execute the following command:
-python3 web-qa.py
-Original Repository
+Install the required dependencies 
+###API Key Setup
+Export your OpenAI API key.
+###Usage
+follow the execution and run the command
+###Original Repository
 For reference, you can find the original repository here(https://github.com/openai/web-crawl-q-and-a-example).
 
 Feel free to explore and adapt the code for your projects. If you encounter any issues or have suggestions for improvements, don't hesitate to create an issue or submit a pull request!
 
 Happy coding!
+
+```bash
+pip3 install -r requirements.txt
+
+
+export OPENAI_API_KEY=sk-yourkey
+
+python3 web-qa.py
