@@ -1,7 +1,4 @@
 
-ChatGPT
-markdown
-Copy code
 # Web Crawl Q&A Example - Updated for OpenAI 1.0.0
 
 This repository is an updated version of the original [Web Crawl Q&A Example](https://github.com/openai/web-crawl-q-and-a-example) by OpenAI. The code has been revised to accommodate changes in OpenAI's API, making it compatible with the latest OpenAI 1.0.0 release.
